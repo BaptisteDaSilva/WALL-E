@@ -1,2 +1,1 @@
-# WALL-E
-Projet robot maraudeur - 3iL - CNES
+# Projet robot maraudeur - CNES - 3iL
