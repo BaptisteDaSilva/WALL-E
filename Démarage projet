@@ -53,4 +53,7 @@ Test in new terminal
     youruser@XXXXXXX:~/WALL-E$ rosrun turtlesim turtle_teleop_key
 
 => You can move the turtle
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
