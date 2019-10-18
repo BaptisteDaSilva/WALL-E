@@ -1,2 +1,5 @@
 catkin_ws/build/*
 catkin_ws/devel/*
+catkin_ws/.vscode/*
+catkin_ws/src/beginner_tutorials/*
+catkin_ws/src/learning_tf/*
